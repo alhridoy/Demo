@@ -1,0 +1,66 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+   
+}
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+
+
+}
+/*mobile-layout*/
+@media only screen and (max-width: 767px) { 
+ .header-wrapper .call {
+
+    margin-top: 15px;
+    margin-right: 18px;
+}
+.watch-video-text h3 {
+    font-size: 16px;
+    padding-bottom: 0px;
+    margin-top: 0;
+}
+.watch-video-text p {
+    padding-bottom: 0;
+    font-size: 14px;
+}
+.video-container {
+    height: 175px;
+}
+.about-content {
+ padding: 0;
+}
+.title-sub h2 {
+    font-size: 22px;
+}
+.subscribe p {
+    font-size: 14px;
+    margin: 0 6%;
+}
+.subscribe button {
+
+    padding: 0px 0px;
+    font-weight: 500;
+    width: 33%;
+    font-size: 12px;
+}
+.para {
+    font-size: 14px;
+}
+.footer-social-links p {    
+    padding-top: 10px;
+    font-size: 11px;
+    font-family: 'OpenSans',sans-serif;
+}
+.section-spacing {
+    padding: 35px 0 30px;
+
+}
+}
